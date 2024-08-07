@@ -1,0 +1,57 @@
+/* Basic reset */
+body, h1, p, a {
+    margin: 0;
+    padding: 0;
+}
+
+/* Body styling */
+body {
+    background-image: url("https://drexel.edu/~/media/Drexel/Core-Site-Group/Core/Images/admissions/visit-tours/virtual-background-downloads/blue-pattern.jpg");
+    background-size: cover;
+    
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 0px;
+}
+
+/* Header styling */
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
+
+nav{
+    padding-top: 10px;
+}
+
+/* Navigation styling */
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+/* Main section styling */
+main {
+    margin: 20px 0;
+    color:#fff8f8ee;
+}
+img{
+    margin: 20px 0;
+}
+
+/* Footer styling */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    
+}
+a{
+    color:white;
+}
